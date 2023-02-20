@@ -1,3 +1,4 @@
 {
-  "cSpell.ignoreWords": ["numeros"]
+  "cSpell.ignoreWords": ["numeros"],
+  "liveServer.settings.port": 5501
 }
